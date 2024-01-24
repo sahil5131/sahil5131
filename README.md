@@ -1,3 +1,5 @@
+![My Remote Image](https://github.com/sahil5131/sahil5131/blob/main/banner.gif)
+
 # 💫 About Me:
 👋 I am Sahil Kumar, a dedicated and result-oriented software engineering student with a fervor for crafting robust and efficient solutions. Currently pursuing B. Tech at MNNIT Allahabad, I am enthusiastic about pushing the boundaries of technology and contributing to transformative projects.<br><br>LeetCode: (Top 4%, 1906) https://leetcode.com/sahil7321/<br>GFG: https://auth.geeksforgeeks.org/user/sahil7321/
 
